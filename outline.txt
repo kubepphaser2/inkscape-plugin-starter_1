@@ -1,0 +1,2 @@
+# Ideas
+Add a benchmark test for core data processing algorithm
